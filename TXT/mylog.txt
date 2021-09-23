@@ -50,3 +50,19 @@ ZCZC W02  20 L20 Assignment #10
 ZCZC W02  30 L22 Quiz
 ZCZC W02  20 L27 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 150 L32 YouTube: study, etc.
+ZCZC W03  10 L00 General, etc.
+ZCZC W03  15 l01 SCELE/Discord related
+ZCZC W03 175 L02 ZOOM meetings related
+ZCZC W03  20 L05 Quiz related
+ZCZC W03 120 L06 References/Books/Documents/GSGS related
+ZCZC W03  60 L11 Assignment #01
+ZCZC W03  60 L12 Assignment #02
+ZCZC W03  60 L13 Assignment #03
+ZCZC W03  10 L14 Assignment #04
+ZCZC W03  60 L15 Assignment #05
+ZCZC W03  20 L16 Assignment #06
+ZCZC W03  10 L17 Assignment #07
+ZCZC W03  20 L18 Assignment #08
+ZCZC W03  30 L19 Assignment #09
+ZCZC W03  30 L21 Trying something
+ZCZC W03  30 L22 Quiz

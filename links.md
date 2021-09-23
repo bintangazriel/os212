@@ -10,3 +10,5 @@ This video explains the major concept of the operating systems whilst also expla
 This video explains the basics of regex. I really like this video because it's very well explained and straightforward.
 3. [How To Use grep Command In Linux / UNIX With Practical Examples](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)<br>
 This article explains how to use Grep on Linux comprehensively. I recommend you guys to read this article as Grep is one of the most useful commands on Linux.
+4. [Learn C](https://www.learn-c.org/)<br>
+This website is intended for everyone who wishes to learn the C programming language. The explanations are easy to understand and there are coding practices in each chapter with solutions.
