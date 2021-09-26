@@ -51,7 +51,7 @@ ZCZC W02  30 L22 Quiz
 ZCZC W02  20 L27 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 150 L32 YouTube: study, etc.
 ZCZC W03  10 L00 General, etc.
-ZCZC W03  15 l01 SCELE/Discord related
+ZCZC W03  15 L01 SCELE/Discord related
 ZCZC W03 175 L02 ZOOM meetings related
 ZCZC W03  20 L05 Quiz related
 ZCZC W03 120 L06 References/Books/Documents/GSGS related
