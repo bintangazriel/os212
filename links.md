@@ -12,3 +12,5 @@ This video explains the basics of regex. I really like this video because it's v
 This article explains how to use Grep on Linux comprehensively. I recommend you guys to read this article as Grep is one of the most useful commands on Linux.
 4. [Learn C](https://www.learn-c.org/)<br>
 This website is intended for everyone who wishes to learn the C programming language. The explanations are easy to understand and there are coding practices in each chapter with solutions.
+5. [Basic Introduction to Pointers and Memory - What is a pointer?](https://www.youtube.com/watch?v=wxCxB2aNouA)<br>
+This video explains basic introduction to what pointers actually are in C language. The explanation comes with some visualization so it's easier to understand the main concept of pointers in C language.
