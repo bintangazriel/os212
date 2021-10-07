@@ -14,3 +14,7 @@ This article explains how to use Grep on Linux comprehensively. I recommend you 
 This website is intended for everyone who wishes to learn the C programming language. The explanations are easy to understand and there are coding practices in each chapter with solutions.
 5. [Basic Introduction to Pointers and Memory - What is a pointer?](https://www.youtube.com/watch?v=wxCxB2aNouA)<br>
 This video explains basic introduction to what pointers actually are in C language. The explanation comes with some visualization so it's easier to understand the main concept of pointers in C language.
+6. [What is Paging | Memory management | Operating System](https://www.youtube.com/watch?v=6c-mOFZwP_8)<br>
+This video explains the concept of paging in memory management. This video is so helpful to understand paging concept. This video have a nice explanation and comes with some diagrams to help you understand the concept even more.
+7. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
+This article also explains the concept of paging in memory management. The explanation is very brief and easy to understand so it can be used as a cheat sheet.
