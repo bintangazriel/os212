@@ -18,3 +18,7 @@ This video explains basic introduction to what pointers actually are in C langua
 This video explains the concept of paging in memory management. This video is so helpful to understand paging concept. This video have a nice explanation and comes with some diagrams to help you understand the concept even more.
 7. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)<br>
 This article also explains the concept of paging in memory management. The explanation is very brief and easy to understand so it can be used as a cheat sheet.
+8. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
+This video explains the concept of fork() and exec() in C language. The explanation is very practical and also come with illustration using terminal.
+9. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+This article explains the concept of fork() in C language. The explanations are comprehensive. There are also sample program examples that runs fork() and exercises with the solutions.
