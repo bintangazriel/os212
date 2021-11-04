@@ -22,3 +22,7 @@ This article also explains the concept of paging in memory management. The expla
 This video explains the concept of fork() and exec() in C language. The explanation is very practical and also come with illustration using terminal.
 9. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 This article explains the concept of fork() in C language. The explanations are comprehensive. There are also sample program examples that runs fork() and exercises with the solutions.
+10. [Process Synchronization Playlist](https://www.youtube.com/watch?v=PKq18t_tH6I&list=PLBXapj649rh_k_gQuLpzpCLx_BNmqOAai)<br>
+This YouTube playlist explains process synchronization thoroughly, and the explanation is easy to understand. Besides theory videos, the playlist also comes with demo videos to help us understand more the concept of process synchronization.
+11. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+This article also explains process synchronization. The explanation is very concise and to the point but still cover essential thing.
