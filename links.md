@@ -26,3 +26,5 @@ This article explains the concept of fork() in C language. The explanations are 
 This YouTube playlist explains process synchronization thoroughly, and the explanation is easy to understand. Besides theory videos, the playlist also comes with demo videos to help us understand more the concept of process synchronization.
 11. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
 This article also explains process synchronization. The explanation is very concise and to the point but still cover essential thing.
+12. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+This article explains CPU Scheduling in operating systems. The explanation is straightforward to understand. It also comes with exercises and solutions.
